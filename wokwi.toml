@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\Projeto_Integrador.hex'
+elf = 'build\Projeto_Integrador.uf2'
