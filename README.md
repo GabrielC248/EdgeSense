@@ -1,7 +1,7 @@
 # 🕹️EdgeSense
   - **Desenvolvedor:** <ins>Gabriel Cavalcanti Coelho</ins>;
   - **Matrícula:** TIC370101612;
-  - **Vídeo:** [YouTube](https://www.youtube.com/).
+  - **Vídeo:** [YouTube](https://youtu.be/BvIvVM8BG5U).
 
 ## 📁Descrição:
 EdgeSense é um projeto desenvolvido com a placa BitDogLab com o objetivo de testar, calibrar e visualizar o comportamento do joystick analógico, além de integrar e revisar o uso dos periféricos estudados.
